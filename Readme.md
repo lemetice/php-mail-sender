@@ -1,0 +1,1 @@
+this is just a very simple html php contact foem that send email to you inbox as customised in the php page
